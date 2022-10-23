@@ -4,7 +4,6 @@ import { useState } from "react";
 import {
   Hydrate,
   QueryClient,
-  QueryClientConfig,
   QueryClientProvider,
 } from "@tanstack/react-query";
 import type { DehydratedState } from "@tanstack/react-query";
